@@ -29,4 +29,4 @@ III) Case study
 1) Download sea surface temperature data, crop to southeast Australia, derive temperature variables, and plot maps for Box 2 Figure
 2) Extract temperature time series for each location, simulate evolution of thermal tolerance for each location, and plot outcomes for Figure 6
 
-All files will be available upon publication in peer-reviewed journal.
+*All files will be available upon publication in peer-reviewed journal.
