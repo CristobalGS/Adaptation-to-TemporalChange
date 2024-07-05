@@ -1,4 +1,4 @@
-# IIC) Evolution of plasticity under different forms of environmental predictability
+# Evolution of plasticity under different forms of environmental predictability
 
 # A) Cyclic change dominates
 predANDplas <- data.frame(gt = NA, rho = NA, cor = NA, b = NA, ac = NA)[numeric(0), ]
