@@ -1,4 +1,4 @@
-# IIA 4) Function to plot tolerance curve at equilibrium with variation in evolved plasticity (breadth)
+# Function to plot tolerance curve at equilibrium with variation in evolved plasticity (breadth)
 
 plot.tolcurve <- function(xvec, bvec, reacNorm = FALSE, out = TRUE, env.i = -10, env.f = 25, equilibrium = 401, plot = TRUE){
   
