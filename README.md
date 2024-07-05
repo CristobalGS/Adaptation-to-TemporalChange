@@ -7,26 +7,18 @@ bioRxiv preprint: https://doi.org/10.1101/2023.02.12.528221
 
 Shinny app: https://crisgs.shinyapps.io/EvolEnvTolApp/
 
-Workflow
+Contents:
 
-I) Targeted review figures (plot review summaries in Figure 3)
+- Evolution of environmental tolerance
+ - Function to simulate environments (sim.env)
+ - Function to simulate evolution under each environment (sim.evo)
+ - Function to extract mean breeding value, mean plasticity, and tolerance curves at equilibrium (evo.out)
+ - Function to plot tolerance curve at equilibrium with variation in evolved plasticity (breadth) (plot.tolcurve)
+ - Simulate evolution under baseline scenario and plot outcomes
+ - Simulate evolution under each environmental change scenario and plot outcomes
 
-II) Relative effects of environmental change components on the evolution of plasticity and tolerance
-	
-IIA) Evolution of environmental tolerance
+- Environmental predictability and evolution of plasticity (simulate evolution under each environment and extract and plot evolved mean plasticities at equilibrium)
 
-1) Function to simulate environments (sim.env)
-2) Function to simulate evolution under each environment (sim.evo)
-3) Function to extract mean breeding value, mean plasticity, and tolerance curves at equilibrium (evo.out)
-4) Function to plot tolerance curve at equilibrium with variation in evolved plasticity (breadth) (plot.tolcurve)
-5) Simulate evolution under baseline scenario and plot outcomes
-6) Simulate evolution under each environmental change scenario and plot outcomes
-	
-IIB) Rates of evolutionary adaptation (plot early evolution of mean breading values, plasticities, and their rate of adaptation after fixed shift in optimum with diffences in variability around optimum)
-
-IIC) Environmental predictability and evolution of plasticity (simulate evolution under each environment and extract and plot evolved mean plasticities at equilibrium)
-
-III) Case study
-
-1) Download sea surface temperature data, crop to southeast Australia, derive temperature variables, and plot maps for Box 2 Figure
-2) Extract temperature time series for each location, simulate evolution of thermal tolerance for each location, and plot outcomes for Figure 6
+- Case study
+ - Download sea surface temperature data, crop to southeast Australia, derive temperature variables, and plot maps
+ - Extract temperature time series for each location, simulate evolution of thermal tolerance for each location, and plot outcomes
