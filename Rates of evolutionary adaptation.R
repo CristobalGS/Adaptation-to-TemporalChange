@@ -1,4 +1,4 @@
-# IIB) Rates of evolutionary adaptation
+# Rates of evolutionary adaptation
 
 # 1) Change in mean
 env1 <- sim.env(plot = FALSE, e0 = 10)
