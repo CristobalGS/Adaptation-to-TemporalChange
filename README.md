@@ -5,6 +5,8 @@ Journal article: "Predicting the evolution of adaptation and plasticity from tem
 
 bioRxiv preprint: https://doi.org/10.1101/2023.02.12.528221
 
+Shinny app: https://crisgs.shinyapps.io/EvolEnvTolApp/
+
 Workflow
 
 I) Targeted review figures (plot review summaries in Figure 3)
