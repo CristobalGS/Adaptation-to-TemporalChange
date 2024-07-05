@@ -1,4 +1,4 @@
-# IIA 3) Function to plot mean population tolerance curve at equilibrium (from generation 401 onwards)
+# Function to plot mean population tolerance curve at equilibrium (from generation 401 onwards)
 evo.out <- function(xvec, bvec, plot = TRUE, equilibrium = 401){
   
   # Initial parameters
