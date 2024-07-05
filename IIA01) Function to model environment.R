@@ -1,4 +1,4 @@
-# IIA 1) Function to simulate environments
+# Function to simulate environments
 
 # Environment
 # e = e0 + nt*t + nc*sin(2*pi*t/P) + nn*y
