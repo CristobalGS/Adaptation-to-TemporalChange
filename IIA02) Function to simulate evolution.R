@@ -1,4 +1,4 @@
-# IIA 2) Function to simulate evolution under each environment
+# Function to simulate evolution under each environment
 
 #----------------------------------------  Equations --------------------------------------------------------------
 
