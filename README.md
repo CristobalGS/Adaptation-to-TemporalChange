@@ -7,6 +7,8 @@ bioRxiv preprint: https://doi.org/10.1101/2023.02.12.528221
 
 Shinny app: https://posit.cloud/content/6515271
 
+DOI: 10.5281/zenodo.14029488
+
 Contents:
 
 - Evolution of environmental tolerance
